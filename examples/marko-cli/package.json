@@ -30,7 +30,7 @@
     "@storybook/addons": "4.0.0-alpha.16",
     "@storybook/marko": "4.0.0-alpha.16",
     "babel-core": "^6.26.3",
-    "prettier": "^1.14.0",
-    "webpack": "^4.16.4"
+    "prettier": "^1.14.2",
+    "webpack": "^4.16.5"
   }
 }

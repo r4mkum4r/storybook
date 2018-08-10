@@ -30,7 +30,7 @@
   },
   "devDependencies": {
     "vue": "^2.5.17",
-    "vue-loader": "15.x.x",
+    "vue-loader": "15.3.0",
     "vue-template-compiler": "^2.5.17"
   },
   "peerDependencies": {

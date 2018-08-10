@@ -29,7 +29,7 @@
     "react-dom": "^16.4.0"
   },
   "devDependencies": {
-    "svelte": "^2.7.2",
-    "svelte-loader": "^2.9.1"
+    "svelte": "^2.9.11",
+    "svelte-loader": "^2.10.1"
   }
 }
