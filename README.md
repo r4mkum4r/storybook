@@ -87,6 +87,7 @@ For additional help, join us [in our Slack](https://now-examples-slackin-rrirkqo
 -   [Marko](app/marko) <sup>alpha</sup> [![Marko](https://img.shields.io/npm/dt/@storybook/marko.svg)](app/marko)
 -   [HTML](app/html) <sup>alpha</sup> [![HTML](https://img.shields.io/npm/dt/@storybook/html.svg)](app/html)
 -   [Svelte](app/svelte) <sup>alpha</sup> [![Svelte](https://img.shields.io/npm/dt/@storybook/svelte.svg)](app/svelte)
+-   [Riot](app/riot) <sup>alpha</sup> [![Riot](https://img.shields.io/npm/dt/@storybook/riot.svg)](app/riot)
 
 ### Sub Projects
 
